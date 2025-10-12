@@ -1,0 +1,11 @@
+.conda/
+checkpoints/
+data/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+env/
+*.env
+*.log
