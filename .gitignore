@@ -9,3 +9,84 @@ __pycache__/
 env/
 *.env
 *.log
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+*.pyo
+*.so
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.nox/
+.pytest_cache/
+.hypothesis/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+*.py,cover
+htmlcov/
+
+# Type checkers / analyzers
+.mypy_cache/
+.pytype/
+.pyre/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Environments
+.venv/
+venv/
+ENV/
+.env.*
+
+# IDE / Editor
+.idea/
+*.sublime-project
+*.sublime-workspace
+.spyproject
+.ropeproject
+.history
+*.code-workspace
+
+# Jupyter / IPython
+profile_default/
+ipython_config.py
+
+# Documentation
+docs/_build/
+
+# Framework / training logs
+runs/
+wandb/
+lightning_logs/
+mlruns/
+tensorboard/
+events.out.tfevents.*
+
+# OS junk
+Thumbs.db
